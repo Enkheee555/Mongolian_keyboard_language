@@ -1,2 +1,2 @@
 # Mongolian_keyboard_language
-Mongolian Keyboard Dictionary
+Mongolian Dictionary for keyboard
